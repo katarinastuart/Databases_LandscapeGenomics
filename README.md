@@ -29,15 +29,15 @@ Includes: ca. 1km resolution, downscaled future projections (generally better th
   
 **CRU: https://crudata.uea.ac.uk/cru/data/hrg/ <br>**
 Example publication here: ?? <br>
-Includes: ca. 1km resolution, downscaled future projections (generally better than raw ones),  and also has stuff like growing degree days, growing season length (BIOCLIM+). CHELSA's grid cells are shifted from others by half a grid cell.
+Includes: This is climate data at 0.5 degrees. Used a lot in climate modelling as baselines, etc. I think is available from 1901. Probably more appropriate for larger spatial scale modelling. I cannot remember the temporal resolution, but data likely available from monthly to 30 year climatologies.
 
 </p>
 
 <p>
   
-**CHELSA: https://chelsa-climate.org/ <br>**
+**WFDEI: https://data.ucar.edu/dataset/the-wfdei-meteorological-forcing-data <br>**
 Example publication here: ?? <br>
-Includes: ca. 1km resolution, downscaled future projections (generally better than raw ones),  and also has stuff like growing degree days, growing season length (BIOCLIM+). CHELSA's grid cells are shifted from others by half a grid cell.
+Includes: Similar to CRU, but is climate model outputs "forced" with some data, it is available at 3-hourly to 30 year climatology from 1979-2016, also at 0.5 degrees resolution. Maybe some newer versions now.
 
 </p>
 
