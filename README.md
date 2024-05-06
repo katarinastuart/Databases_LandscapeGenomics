@@ -82,3 +82,5 @@ Includes: ca. 1km resolution, urban land extent
 
 **Human Phenotype Ontology: https://hpo.jax.org/app/ <br>**
 Example publication here: https://www.pnas.org/doi/10.1073/pnas.2216789120
+
+**CO<sub>2</sub>: https://gml.noaa.gov/ccgg/trends/mlo.html <br>**
